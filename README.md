@@ -29,6 +29,7 @@ Content Management Systems (CMS) make it easier to create, manage, and publish c
 - [WordPress](https://wordpress.org/) – The world’s most popular CMS, powering millions of websites.
 - [Drupal](https://www.drupal.org/) – Flexible, robust CMS for complex content modeling.
 - [Joomla](https://www.joomla.org/) – Open-source CMS with strong multilingual support.
+- [JustBlogged](https://justblogged.com/) – No-setup blogging platform. Sign up, pick a name, start writing. Free forever, $9/mo Pro.
 - [TYPO3](https://typo3.org/) – Enterprise-class CMS built in PHP.
 - [Concrete CMS](https://www.concretecms.com/) – Easy-to-use CMS with inline editing.
 
