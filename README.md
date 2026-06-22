@@ -48,6 +48,7 @@ Content Management Systems (CMS) make it easier to create, manage, and publish c
 - [TinaCMS](https://tina.io/) – Git-backed CMS for Markdown and Next.js.
 - [Netlify CMS](https://www.netlifycms.org/) – Static site CMS built for Git workflows.
 - [Cockpit CMS](https://getcockpit.com/) – Self-hosted, API-driven CMS.
+- [UnfoldCMS](https://unfoldcms.com/) – Self-hosted Laravel 12 CMS with a React 19 + shadcn/ui admin panel, REST API v1 (42 endpoints), HMAC-signed webhooks, and headless mode for Next.js, Astro, SvelteKit, and Nuxt.
 
 ## Static Site CMS
 
