@@ -20,6 +20,7 @@ Content Management Systems (CMS) make it easier to create, manage, and publish c
 - [Enterprise CMS](#enterprise-cms)
 - [CMS for E-Commerce](#cms-for-e-commerce)
 - [CMS Starters & Frameworks](#cms-starters--frameworks)
+- [Developer Tools](#developer-tools)
 - [Learning Resources](#learning-resources)
 - [Communities & News](#communities--news)
 - [Related Awesome Lists](#related-awesome-lists)
@@ -76,6 +77,10 @@ Content Management Systems (CMS) make it easier to create, manage, and publish c
 - [Gatsby + Ghost](https://github.com/TryGhost/gatsby-starter-ghost)
 - [Nuxt + Contentful](https://github.com/nuxt/content)
 - [Remix + Sanity Template](https://github.com/sanity-io/remix-blog)
+
+## Developer Tools
+
+- [Payload Components](https://www.payload-components.xyz/) - MIT registry and CLI for installing wired Payload CMS blocks into Payload v3 and Next.js projects.
 
 ## Learning Resources
 
