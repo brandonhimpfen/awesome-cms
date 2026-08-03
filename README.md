@@ -48,6 +48,7 @@ Content Management Systems (CMS) make it easier to create, manage, and publish c
 - [TinaCMS](https://tina.io/) – Git-backed CMS for Markdown and Next.js.
 - [Netlify CMS](https://www.netlifycms.org/) – Static site CMS built for Git workflows.
 - [Cockpit CMS](https://getcockpit.com/) – Self-hosted, API-driven CMS.
+- [Pushword](https://pushword.piedweb.com/) — Symfony CMS with Markdown content, editable from the admin or from Git.
 
 ## Static Site CMS
 
