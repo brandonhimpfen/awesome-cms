@@ -1,4 +1,4 @@
-# Awesome CMS [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome CMS [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -92,10 +92,10 @@ Content Management Systems (CMS) make it easier to create, manage, and publish c
 
 ## Related Awesome Lists
 
-- [Awesome Headless CMS](https://github.com/awesomelistsio/awesome-headless-cms)
-- [Awesome WordPress](https://github.com/awesomelistsio/awesome-wordpress)
-- [Awesome JAMstack](https://github.com/awesomelistsio/awesome-jamstack)
-- [Awesome Static Website Services](https://github.com/awesomelistsio/awesome-static-website-services)
+- [Awesome Headless CMS](https://github.com/brandonhimpfen/awesome-headless-cms)
+- [Awesome WordPress](https://github.com/brandonhimpfen/awesome-wordpress)
+- [Awesome JAMstack](https://github.com/brandonhimpfen/awesome-jamstack)
+- [Awesome Static Website Services](https://github.com/brandonhimpfen/awesome-static-website-services)
   
 ## Contribute
 
