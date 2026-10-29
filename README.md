@@ -80,7 +80,7 @@ Content Management Systems (CMS) make it easier to create, manage, and publish c
 
 ## Learning Resources
 
-- [Smashing Magazine – Choosing the Right CMS](https://www.smashingmagazine.com/2019/08/choosing-right-cms/)
+- [Smashing Magazine – 10 Things To Consider When Choosing The Perfect CMS](https://www.smashingmagazine.com/2009/03/10-things-to-consider-when-choosing-the-perfect-cms/)
 - [CMS Critic](https://www.cmscritic.com/) – Reviews, comparisons, and rankings.
 - [Jamstack CMS comparison](https://jamstack.org/headless-cms/)
 - [Headless CMS Guide](https://www.contentful.com/r/knowledgebase/what-is-headless-cms/)
